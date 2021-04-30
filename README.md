@@ -2,4 +2,6 @@
 Learning
 
 
+<<<<<<< ReadMe.edits
 First Git
+
