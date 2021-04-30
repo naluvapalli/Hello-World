@@ -2,4 +2,6 @@
 Learning
 
 
-I am Learning GIT....:)
+<<<<<<< ReadMe.edits
+First Git
+
